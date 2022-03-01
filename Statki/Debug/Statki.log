@@ -1,0 +1,5 @@
+﻿  Bot.cpp
+  Statki.cpp
+C:\Users\kk\Desktop\Statki\Statki\Statki.cpp(15,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  Statki.vcxproj -> C:\Users\kk\Desktop\Statki\Debug\Statki.exe
